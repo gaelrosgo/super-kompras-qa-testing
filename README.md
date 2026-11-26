@@ -1,0 +1,1 @@
+# super-kompras-qa-testing
